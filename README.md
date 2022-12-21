@@ -1,5 +1,7 @@
 ![image](img/qhack-banner.png)
 
+CHANGE THIS
+
 ## QHack Open Hackathon
 
 Share your ideas with the quantum world in QHack's famous open-ended hackathon!
