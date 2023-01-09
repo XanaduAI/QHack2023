@@ -153,7 +153,7 @@ Sponsored by:
 - $5,000 paid trip to visit the Sherbrooke ecosystem.
 
 Sponsored by:
-[Entropica Labs](https://www.entropicalabs.comh)
+[Entropica Labs](https://www.entropicalabs.com)
 
 **Prize**:
 - Full-time remote internship for 3 months at $1.5k per month. (If more than one person is interested, the salary would be shared). 
