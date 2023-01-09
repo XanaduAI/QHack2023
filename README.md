@@ -33,276 +33,174 @@ Thanks to Amazon Braket you can power up your projects during the QHack Open Hac
 |   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): Open Hackathon project submissions are due |  |
 
 ---
-### Challenges
-
-#### Amazon Braket Challenge
-
-Sponsored by [Amazon Braket](https://aws.amazon.com/braket/)
-
-**Awarded for**: 
-
-- *Best Open Hackathon experiment on Braket QPUs*
-- *Best Open Hackathon experiment on Braket Simulators*
-- *Most creative Open Hackathon experiment on Braket*
-
-**Prize**: 
-
-*In each of the categories, the top team will receive*
-- $10k in Braket Credits
-- 1 [AWS DeepRacer](https://aws.amazon.com/deepracer/)
-
-**Info**:
-
-Join the Amazon Braket office hours daily from 1 to 2pm PST. Whether you have a question about AWS and Amazon Braket, want to discuss your approach to the Hackathon Challenge, or just want to drop by to say hello and meet the team — we have you covered. The details are posted in the `#amazon-braket-support` channel on the [Xanadu Slack](https://u.strawberryfields.ai/slack).
+### Hackathon projects
 
 ---
+#### Visualization Challenge
 
-#### IBM Qiskit Challenge
-
-Sponsored by [IBM Quantum](https://www.ibm.com/quantum-computing/) and [Université de Sherbrooke](https://www.usherbrooke.ca/iq/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project which uses IBM’s Qiskit*
-
-**Prize**: 
-
-- **1st place**: *Two hours of access to IBM Q systems (up to 127-qubit machine) + 10 hours of coaching on Qiskit project + swag packs* (only students who are full-time registered can win this prize)
-- **2nd place**: *4 Apple watches (3 series) + swag pack*
-- **3rd place**: *4 AirPods (2nd gen) + swag pack*
-
-**Info**:
-
-Only students who are full-time registered at a university are eligible to win the 1st place prize (access to IBM Q system provided by Université de Sherbrooke). Proof of full-time registration at a university will be asked before the prize is handed out.
-
----
-
-#### Analog Quantum Computing Challenge
-
-Sponsored by [Pasqal](https://pasqal.io/)
-
-**Awarded for**:
-Best Open Hackathon project which uses analog quantum computing
+Sponsored by:
+[Atom Computing](https://atom-computing.com)
 
 **Prize**:
+-   One-person two-part trip to our Berkeley office to meet our applications team there. Also to Boulder to visit the facilities and meet the team.
 
- *Two hours of QPU time on Pasqal's cloud platform (usable in June 2022)*
-
-**Info:**
-
-In contrast to the digital mode where the time evolution of qubits is described by discrete quantum gates, control over the device can be realized at the so-called analog level, where the user can directly manipulate in a continuous manner the mathematical operator (the Hamiltonian) describing the evolution of the ensemble of atoms. Not only does it allow for a finer level of control over pulses during the application of gates, but it also makes it possible to directly use the Hamiltonian of the system as a resource for computation. The fine level of control allowed by this analog setting, together with the large number of possible geometric configurations of neutral atom registers, makes it a powerful tool for quantum processing. A good starting point for analog quantum computing is the [Pulser](https://pulser.readthedocs.io/en/stable/) framework, developed by Pasqal.
-
----
-
-#### Bio-QML Challenge
-
-Sponsored by [Menten AI](https://www.menten.ai/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project applying quantum machine learning to a biotechnology use-case*
+Sponsored by:
+[IonQ](https://ionq.com)
 
 **Prize**:
+- [Waiting]
 
-One winner will receive a 12-week paid ($14K USD) remote internship at Menten AI as well as an awesome swag package.
-
-**Info**:
-
-For any questions, please reach out directly to alexey.galda@menten.ai
-
----
-
-#### Google Quantum AI Research Challenge
-
-Sponsored by [Google Quantum AI](https://quantumai.google)
-
-**Awarded for**: 
-
-*Best Open Hackathon project which implements/extends a concept in a Google Quantum AI research paper*
-
-**Prize**: 
-
-- *Virtual visit to Google Quantum AI campus*
-- *Virtual meet-and-greet with members of the Google Quantum AI team*
-    
-**Info**: 
-
-Check out the Google Quantum AI team's [year-in-review blog post](https://blog.google/technology/research/2021-year-review-google-quantum-ai/) for helpful links to their papers as well as context of the research results.
-
----
-
-#### Hybrid Algorithms Challenge
-
-Sponsored by [AQT](https://www.aqt.eu/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project that makes use of quantum-classical hybrid algorithms*
-
-**Prize**: 
-
-*Two hours of access to AQT's QPU over the cloud*
-
----
-
-#### QAOA Challenge
-
-Sponsored by [Entropica](https://www.entropicalabs.com/)
-
-**Awarded for**: 
-
-Best Open Hackathon project using the Quantum Approximate Optimization Algorithm
+Sponsored by:
+[Strangeworks](https://strangeworks.com)
 
 **Prize**:
+- One year software license to the Strangeworks Enterprise level product with $3,000 in hardware credits.
+- The winners will get the opportunity to work with our Director of Application development for up to 15 hours to develop and launch an application on the Strangeworks platform.
 
-*One winner will receive a 12-week paid remote internship at Entropica Labs (2,800 SGD/2,080 USD per month); if conditions allow the internship can be done in Singapore)*.
+**Details of the project**: It will be provided on February 22
 
-**Info**: 
-
-QAOA is a heuristic quantum algorithm based on the adiabatic theorem and may offer a quantum advantage for discrete optimisation in the NISQ era. However, the performance can depend strongly on the specific problem being tackled. In this challenge, you will select your favourite combinatorial optimisation problem and analyse how QAOA fares against it. Hint: You could pick bin packing, the knapsack problem, vertex cover, or maybe a scheduling problem. And there are many more! 
-
-If you need some structure to get started, you could:
-
-1. Pick an optimisation problem
-2. Implement a QAOA workflow using a QC framework of your choice
-3. Hack the day away! Experiment with different problem instances, change the meta-parameters of QAOA, experiment with different classical optimisers, and try to find the optimal solutions to the problem
-
-In order to qualify for the internship you will need to meet the following requirements:
-
-- Be able to commit for 12 consecutive weeks of internship before the end of 2022
-- You are a full-time University student (BSc, Masters or PhD Candidate) or recently graduated (within the last 12 months)
-- For the in-person internship in Singapore: To qualify for and obtain a WHP (https://www.mom.gov.sg/passes-and-permits/work-holiday-programme)
 
 ---
 
 #### Quantum Chemistry Challenge
 
-Sponsored by [QunaSys](https://en.qunasys.com/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project using quantum computing for quantum chemistry*
+Sponsored by:
+[IBM](https://www.ibm.com/quantum)
 
 **Prize**:
+- Block of 10 hours on a 127-qubit Eagle processor.
+- [Waiting]
 
-- *One-month summer internships (in Tokyo or virtual) with QunaSys. 300,000 yen ($2,600 USD) salary, travel & accommodation included.* (Two internships available)
-- *10 physical goods (choice of Nintendo Switch or Sony Wireless Headphone)*
-
-**Info**:
-
-Please [register with QunaSys using this form](https://docs.google.com/forms/d/1Zr8507U13QGEc7LqCpr5W84eM0O8B9R34Tm9ez3Y0SE/viewform?edit_requested=true) for additional information.
-
-Quantum algorithms for chemistry applications are expanding. We can now calculate the ground-state energy of molecules, excited-states energy, energy derivatives, periodic systems, and so on! With quantum algorithms, we can test wide varieties of industrial applications like reaction path search, photochemical reaction, molecular dynamics, etc.
-
-Coding tool: QunaSys will open their software product Qamuy—Gaussian-like quantum chemistry software—for all participants. You can use it to build chemistry applications easily! Of course, you are welcome to build using Pennylane, Qiskit, Cirq, etc.
-
-For detail please check Youtube video [Introduction to the Quantum Chemistry Challenge hosted by QunaSys](https://www.youtube.com/watch?v=92JQaSEFkxg)
-
----
-
-#### Quantum Entrepreneur Challenge
-
-Sponsored by [Creative Destruction Lab](https://www.creativedestructionlab.com/streams/quantum/)
-
-**Awarded for**: 
-
-Best Open Hackathon project that includes a business pitch
+Sponsored by:
+[QunaSys](https://qunasys.com/en/)
 
 **Prize**:
+- Two on-site internship positions for one month in Tokyo. The salary will be 300.000 yens (~$2.600 USD) and it includes the plane ticket and accommodation.
+- Nintendo Switch / Sony Headset.
 
-- *Invitation to CDL bootcamp* (top 1 team)
-- *Access to CDL mentorship session* (top 2 teams)
-- *Exclusive 1-on-1 business coaching session with a CDL Quantum mentor* (1-hr each, top 2 teams)
-
-**Info**:
-
-For this challenge, you will need to include a brief business pitch along with your Open Hackathon project. This can take the form of a video (under 90 seconds) and/or a slide deck (max 7 slides including the title slide). Your pitch should explain how you would form a company around the ideas in your Open Hackathon project.
-
----
-
-#### Quantum Finance Challenge
-
-Sponsored by [Agnostiq](https://agnostiq.ai/) and [Multiverse Computing](https://www.multiversecomputing.com/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project using quantum computing for finance problems*
-
-**Prize**: 
-
-- **1st place**: *13-inch Macbook Pro*
-- **2nd place**: *11-inch iPad Pro*
-- **3rd place**: *Oculus Quest 2 128GB VR Headset with Touch Controllers*
-
----
-
-#### Science Challenge
-
-Sponsored by [CERN](http://quantum.cern/)
-
-**Awarded for**: 
-
-*Best Open Hackathon project that uses quantum computing to tackle a fundamental scientific problem or use-case*
-
-**Prize**: 
-
-*Win the opportunity to visit [CERN](https://home.cern/) for a special tour and/or potential paid internship* (Three internships available)
-
-**Info**:
-
-To be eligible for the CERN internship, some eligibility and pre-registration conditions apply. 
-Please see [here](https://home.cern/summer-student-programme) and 
-[here](https://www.smartrecruiters.com/CERN/743999788187918-cern-openlab-summer-student-programme-2022) 
-for a description of the CERN internship program.
-
----
-
-#### Simulation Challenge
-
-Sponsored by [IQM](https://www.meetiqm.com/) and [VTT](https://www.vttresearch.com/en/ourservices/quantum-technology)
-
-**Awarded for**: 
-
-*Best Open Hackathon project that uses quantum computing to simulate a physical system*
-
-**Prize**: 
-
-- *Trip to Finland with on-site tour of IQM and VTT offices. Flight & accommodation included.* (Four spots available).
-- *Exclusive access to five-qubit quantum computer at VTT (total 10 hours of access including preparation, calibration, and runtime)*
-
----
-
-#### Young Scientist Challenge
-
-Sponsored by [University of Waterloo (IQC)](https://uwaterloo.ca/institute-for-quantum-computing/), [University of Calgary](https://www.ucalgary.ca/entrepreneurial/quantum), [University of Toronto (CQIQC)](https://cqiqc.physics.utoronto.ca/), [Quantum Algorithms Institute](https://quantumalgorithms.ca/), [Perimeter Institute](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil), and [Université de Sherbrooke (IQ)](https://www.usherbrooke.ca/iq/).
-
-**Awarded for**: 
-
-Best Open Hackathon project by an undergraduate or pre-undergraduate scientist
+Sponsored by:
+[qBraid](https://qbraid.com)
 
 **Prize**:
+- Remote intership for 6 weeks with a salary of $6.000 USD (one spot).
+- Apple airpods (up to three).
 
-- *Signed textbooks* (Eight available)
-- *Swag packs*
-- *Invitation to the Quantum School for Young Students (QSYS) Virtual and consideration for QSYS On-Campus* (High-School Students only)
+**Details of the project**: It will be provided on February 22
 
-**Info**: 
 
-To be eligible for the QSYS program, participants must be enrolled in a secondary school and be at least 15 years old or older. Please see the [QSYS website](https://uwaterloo.ca/institute-for-quantum-computing/qsys#Who-can-apply) for further eligibility considerations. 
+---
+
+
+#### Hybrid Quantum-Classical Computing Challenge
+
+
+Sponsored by:
+[Agnostiq](https://agnostiq.ai)
+
+**Prize**:
+- Macbook/electronics up to $5k USD.
+
+Sponsored by:
+[QuEra](https://www.quera.com)
+
+**Prize**:
+- $1.000 USD per team participant (maximum of $ 4.000).
+- Atomic certificate of victory.
+- A virtual presentation of their results to our team.
+
+Sponsored by:
+[IQM](https://www.meetiqm.com)
+
+**Prize**:
+- up to 4 tickets for Superconducting Qubits and Algorithms Conference 2023 (in Munich). It includes a travel budget of up to €2,400 for the whole team, which needs to be split. Also willing to support the team winning if they want to move forward with their work. IQM will take care of the booking of travel and accommodation for the winners. If the budget is not used entirely for travelling, IQM will use it to provide physical prizes in agreement with the winners (e.g. for electronics, activities, etc.).
+
+**Details of the project**: It will be provided on February 22
+
+---
+
+#### Quantum computing today!
+
+Sponsored by:
+[Classiq](https://www.classiq.io)
+
+**Prize**:
+- Full-time paid remote internships. This will include a weekend trip to the Classiq offices in Tel Aviv. The total budget will be $5,000 USD.
+
+Sponsored by:
+[BEIT](https://beit.tech)
+
+**Prize**:
+- Flight and accommodation to visit the offices in Krakow. A tour of the office will be offered and we will have an on-site research experience with the team (one person).
+
+Sponsored by:
+[Multiverse Computing](https://multiversecomputing.com)
+
+**Prize**:
+- One on-site internship for the winning team, after one final interview with all the participants of the team and subject to a successful match. The internship would be for 6 months in San Sebastian, Spain, with a relocation package of 2.000 euros and a monthly payment of 1.200 euros NET. in case you are not interested in the intership, you will be provided with an electronic device up to 2.000 euros.
+
+**Details of the project**: It will be provided on February 22
+
+
+
+---
+
+#### QEC and Compilation Challenge
+
+Sponsored by:
+[Nord Quantique](https://www.nordquantique.ca)
+
+**Prize**:
+- $5,000 paid trip to visit the Sherbrooke ecosystem.
+
+Sponsored by:
+[Entropica Labs](https://www.entropicalabs.comh)
+
+**Prize**:
+- Full-time remote internship for 3 months at $1.5k per month. (If more than one person is interested, the salary would be shared). 
+- Airpods and Entropica T-shirts for other members of the team.
+
+Sponsored by:
+[AQT](https://www.aqt.eu)
+
+**Prize**:
+- 2h of access to AQT's QPU over the cloud.
+- 1hr virtual mentorship with one of the founders.
+
+**Details of the project**: It will be provided on February 22
+
+
+
+---
+
+#### Power up your project!
+
+if your hackathon project uses the following technologies, it will be eligible to win more prizes:
+
+[AWS](https://aws.amazon.com/es/braket/) 
+
+**Prize**:
+- AWS credits
+- Amazon gift cards
+- Blog post co-authored with the winner on the AWS Quantum Technologies channel
+
+[NVIDIA](https://www.nvidia.com/en-us/location-selector/)
+
+**Prize**:
+- **1st place**:  4090s GPUs (up to 4)
+- **2nd place**:  3090s GPUs (up to 4)
+- **3rd place**:  3080s GPUs (up to 4)
 
 ---
 
 ### How do I take part?
 
-To submit your team's entry for any of these prizes, simply open an Issue using *[this template](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=&template=open_hackathon.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
-Specifically, this issue should contain:
 
-1. The name of your team (if you took part in the [QHack Coding Challenge](Coding_Challenges.md), this name should match the name used there).
-2. A brief description of your project (1-2 paragraphs).
-3. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
-4. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
-5. A list of all Open Hackathon challenges/prizes you would like your project to qualify for. 
+To submit your team's entry for any of these prizes, you should follow these steps:
 
+1. Clone the current repository and create a new branch called `project_<name of your team>`.
+2. Create the folder that will contain your project within `hackathon_projects`. Give that folder the same name you have given to your branch.
+3. Add your project to this folder and write a `README.md` inside your folder following this [example](/hackathon_projects/project_MyTeamName/README.md).
+4. Create a Pull Request to the main branch of this repository.
 ---
 
 ### What hackathon project should my team do?
