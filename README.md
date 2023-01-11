@@ -4,34 +4,80 @@
 
 Share your ideas with the quantum world at QHack's famous open hackathon!
 
-This year's hackathon includes new sponsored challenges, each with unique prizes. Your project will be eligible for multiple prizes that fit the proposed themes. 
+This year's hackathon includes new sponsored challenges, each with unique prizes. Your project will be eligible for multiple prizes that fit the proposed topics. 
 
 See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2023 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
 ---
 
+
+### How do I take part?
+
+
+To submit your team's entry for any of these prizes, you should follow these steps:
+
+1. Create a folder called `project_<name of your team>` with you hackathon project and zip it.
+
+
+2. Create an issue in this repository following this [template](https://github.com/XanaduAI/QHack2023/issues/4).
+
+
+3. If you are applying for a power up and therefore, it is not yet the final project, indicate this by adding the `PowerUp` label.
+
+
+4. If, on the other hand, it is the final project, you must add the `Done` label. Do not make the modification on the `PowerUp` issue, create a new issue for that.
+
+And that's it, as easy as that! 
+Make sure you do not make any changes to the issue after the closing date or it will not be evaluated. 
+
+
+---
+
+
+
+### What hackathon project should my team do?
+
+The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
+You could brainstorm a new idea with your team, or start from one of the following seed ideas:
+
+- Implement a idea from the quantum literature—or from one of our guest speaker presentations—in code
+
+
+- Create a self-contained tutorial or demonstration of an idea from quantum computing (and submit it the 
+[PennyLane Community page](https://pennylane.ai/qml/demos_community.html)!)
+
+
+- Extend one of the [QHack Coding Challenge](Coding_Challenges.md) problems in a novel or interesting way
+
+
+- Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
+
+
+- Submit a Pull Request to an open-source library with a new feature
+
+All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions/).
+
+---
+
+
 ### Power Ups
 
-**Free AWS Credits** 
-
-Thanks to Amazon Braket you can power up your projects during the QHack Open Hackathon:
-- **$400 in AWS Credits are available for up to 100 teams**: To unlock this Power Up, your team must place in the top 100 of the QHack Coding Challenges at 17h00 ET on Fri, Feb 18.
-- **$2000 in AWS Credits are available for up to 15 teams**: To unlock this Power Up, your team must [submit a draft of your QHack Open Hackathon project](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=AWS+Power+Up&template=open-hackathon-aws-power-up-entry.md&title=%5BAWS+Power+Up%5D+Your+Project+Title) by 12h00 ET on Wed, Feb 23. Fifteen winners will be selected from the received submissions.
-
-**Exclusive access to IBM Quantum machines**
-
- Thanks to IBM Quantum you can power up your projects during the QHack Open Hackathon:
- - **Access to 7-Qubit IBM Quantum machine**: To unlock this Power Up, your team must place in the top 70 of the QHack Coding Challenges at 17h00 ET on Fri, Feb 18.
- - **Access to 16-qubit IBM Quantum machine**: To unlock this Power Up, your team must [submit a draft of your QHack Open Hackathon project](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=IBM+Power+UP&template=open-hackathon-ibm-power-up-entry.md&title=%5BIBM+Power+Up%5D+Your+Project+Title) by 11h59 ET on Tues, Feb 22. Ten winners will be selected from the received submissions.
+It will be announced soon!
 
 ---
 
 ### Timeline
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|---|---|---|---|---|---|---|
-|   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): Open Hackathon project submissions are due |  |
+- **February 21**: The hackathon has not yet stared but a power up will be given to those teams with the best scores in the coding challenges
 
+
+- **February 22**: Hackathon topics are announced! Time to get to work
+
+
+- More power ups will be given during the week! Don't forget to make a partial submission with the `PowerUp` label if you want to qualify for them. We will soon announce until when you can make these submissions.
+
+
+- **February 28**: Time is up! The deadline is 5pm ET, so make sure you have everything ready in advance to avoid last minute problems.
 ---
 ### Hackathon projects
 
@@ -69,14 +115,13 @@ Sponsored by:
 
 **Prize**:
 - Block of 10 hours on a 127-qubit Eagle processor.
-- [Waiting]
 
 Sponsored by:
 [QunaSys](https://qunasys.com/en/)
 
 **Prize**:
 - Two on-site internship positions for one month in Tokyo. The salary will be 300.000 yens (~$2.600 USD) and it includes the plane ticket and accommodation.
-- Nintendo Switch / Sony Headset.
+- Nintendo Switches / Sony Headsets.
 
 Sponsored by:
 [qBraid](https://qbraid.com)
@@ -112,7 +157,7 @@ Sponsored by:
 [IQM](https://www.meetiqm.com)
 
 **Prize**:
-- up to 4 tickets for Superconducting Qubits and Algorithms Conference 2023 (in Munich). It includes a travel budget of up to €2,400 for the whole team, which needs to be split. Also willing to support the team winning if they want to move forward with their work. IQM will take care of the booking of travel and accommodation for the winners. If the budget is not used entirely for travelling, IQM will use it to provide physical prizes in agreement with the winners (e.g. for electronics, activities, etc.).
+- Up to 4 tickets for Superconducting Qubits and Algorithms Conference 2023 (in Munich). It includes a travel budget of up to €2,400 for the whole team, which needs to be split. Also willing to support the team winning if they want to move forward with their work. IQM will take care of the booking of travel and accommodation for the winners. If the budget is not used entirely for travelling, IQM will use it to provide physical prizes in agreement with the winners (e.g. for electronics, activities, etc.).
 
 **Details of the project**: It will be provided on February 22
 
@@ -172,7 +217,7 @@ Sponsored by:
 
 ---
 
-#### Power up your project!
+#### Specific hardware project
 
 if your hackathon project uses the following technologies, it will be eligible to win more prizes:
 
@@ -192,32 +237,7 @@ if your hackathon project uses the following technologies, it will be eligible t
 
 ---
 
-### How do I take part?
 
-
-To submit your team's entry for any of these prizes, you should follow these steps:
-
-1. Clone the current repository and create a new branch called `project_<name of your team>`.
-2. Create the folder that will contain your project within `hackathon_projects`. Give that folder the same name you have given to your branch.
-3. Add your project to this folder and write a `README.md` inside your folder following this [example](/hackathon_projects/project_MyTeamName/README.md).
-4. Create a Pull Request to the main branch of this repository.
----
-
-### What hackathon project should my team do?
-
-The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
-You could brainstorm a new idea with your team, or start from one of the following seed ideas:
-
-1. Implement a idea from the quantum literature—or from one of our guest speaker presentations—in code
-2. Create a self-contained tutorial or demonstration of an idea from quantum computing (and submit it the 
-[PennyLane Community page](https://pennylane.ai/qml/demos_community.html)!)
-3. Extend one of the [QHack Coding Challenge](Coding_Challenges.md) problems in a novel or interesting way
-4. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
-5. Submit a Pull Request to an open-source library with a new feature
-
-All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions/).
-
----
 
 ### What is the judging criteria for ranking the Open Hackathon projects?
 
@@ -229,3 +249,4 @@ The QHack organizing team will grade every Open Hackathon submission based on th
 
 Specific Open Hackathon Challenges may be judged by that Challenge's sponsors. The QHack organizing team will provide the sponsor with a ranked list of the top candidate projects that are eligible for that Challenge. The final winner will be chosen by the sponsor from this list of top candidates.
 
+Good luck!
