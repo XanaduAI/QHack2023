@@ -1,12 +1,12 @@
-![image](img/qhack-banner.png)
+![image](img/qhack-banner.svg)
 
 ## QHack Open Hackathon
 
-Share your ideas with the quantum world in QHack's famous open-ended hackathon!
+Share your ideas with the quantum world at QHack's famous open hackathon!
 
-This year's Open Hackathon features a number of sponsored challenges, each with unique prizes. Your project could potentially qualify for multiple prizes! 
+This year's hackathon includes new sponsored challenges, each with unique prizes. Your project will be eligible for multiple prizes that fit the proposed themes. 
 
-See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2022 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
+See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2023 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
 ---
 
