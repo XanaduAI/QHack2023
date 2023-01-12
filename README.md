@@ -1,4 +1,4 @@
-![image](img/qhack-banner.svg)
+![image](img/qhack-banner.png)
 
 ## QHack Open Hackathon
 
@@ -91,12 +91,6 @@ Sponsored by:
 -   One-person two-part trip to our Berkeley office to meet our applications team there. Also to Boulder to visit the facilities and meet the team.
 
 Sponsored by:
-[IonQ](https://ionq.com)
-
-**Prize**:
-- [Waiting]
-
-Sponsored by:
 [Strangeworks](https://strangeworks.com)
 
 **Prize**:
@@ -171,18 +165,6 @@ Sponsored by:
 **Prize**:
 - Full-time paid remote internships. This will include a weekend trip to the Classiq offices in Tel Aviv. The total budget will be $5,000 USD.
 
-Sponsored by:
-[BEIT](https://beit.tech)
-
-**Prize**:
-- Flight and accommodation to visit the offices in Krakow. A tour of the office will be offered and we will have an on-site research experience with the team (one person).
-
-Sponsored by:
-[Multiverse Computing](https://multiversecomputing.com)
-
-**Prize**:
-- One on-site internship for the winning team, after one final interview with all the participants of the team and subject to a successful match. The internship would be for 6 months in San Sebastian, Spain, with a relocation package of 2.000 euros and a monthly payment of 1.200 euros NET. in case you are not interested in the intership, you will be provided with an electronic device up to 2.000 euros.
-
 **Details of the project**: It will be provided on February 22
 
 
@@ -204,12 +186,6 @@ Sponsored by:
 - Full-time remote internship for 3 months at $1.5k per month. (If more than one person is interested, the salary would be shared). 
 - Airpods and Entropica T-shirts for other members of the team.
 
-Sponsored by:
-[AQT](https://www.aqt.eu)
-
-**Prize**:
-- 2h of access to AQT's QPU over the cloud.
-- 1hr virtual mentorship with one of the founders.
 
 **Details of the project**: It will be provided on February 22
 
@@ -221,19 +197,15 @@ Sponsored by:
 
 if your hackathon project uses the following technologies, it will be eligible to win more prizes:
 
-[AWS](https://aws.amazon.com/es/braket/) 
-
-**Prize**:
-- AWS credits
-- Amazon gift cards
-- Blog post co-authored with the winner on the AWS Quantum Technologies channel
-
 [NVIDIA](https://www.nvidia.com/en-us/location-selector/)
 
 **Prize**:
-- **1st place**:  4090s GPUs (up to 4)
-- **2nd place**:  3090s GPUs (up to 4)
-- **3rd place**:  3080s GPUs (up to 4)
+- **1st place**:  Up to four Geforce RTX 4090s GPUs 
+- **2nd place**:  Up to four Geforce RTX 3090s GPUs 
+- **3rd place**:  Up to four Geforce RTX 3080s GPUs
+
+---
+More sponsors and prizes are on the way so stay tuned!
 
 ---
 
