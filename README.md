@@ -4,7 +4,7 @@
 
 Share your ideas with the quantum world at QHack's famous open hackathon!
 
-This year's hackathon includes new sponsored challenges, each with unique prizes. Your project will be eligible for multiple prizes that fit the proposed topics. 
+This year's hackathon includes new sponsored challenges, each with unique prizes. You can submit your project to multiple prizes as long as it is eligible for them.
 
 See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2023 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
