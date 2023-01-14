@@ -16,7 +16,7 @@ See below for challenge topics and additional eligibility criteria. Complete det
 
 To submit your team's entry for any of these prizes, you should follow these steps:
 
-1. Create a folder called `project_<name of your team>` with you hackathon project and zip it.
+1. Create a folder called `project_<name of your team>` with your hackathon project and zip it.
 
 
 2. Create an issue in this repository following this [template](https://github.com/XanaduAI/QHack2023/issues/4).
