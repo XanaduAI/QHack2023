@@ -27,7 +27,7 @@ To submit your team's entry for any of these prizes, you should follow these ste
 
 4. If, on the other hand, it is the final project, you must add the `Done` label. Do not make the modification on the `PowerUp` issue, create a new issue for that.
 
-And that's it, as easy as that! 
+And that's it — as easy as that! 
 Make sure you do not make any changes to the issue after the closing date or it will not be evaluated. 
 
 
