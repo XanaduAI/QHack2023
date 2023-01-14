@@ -1,4 +1,4 @@
-![image](img/qhack-banner.png)
+<img src="img/qhack-banner.png" alt="drawing" width="70%"/>
 
 ## QHack Open Hackathon
 
