@@ -40,20 +40,19 @@ Make sure you do not make any changes to the issue after the closing date or it 
 The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
 You could brainstorm a new idea with your team, or start from one of the following seed ideas:
 
-- Implement a idea from the quantum literature—or from one of our guest speaker presentations—in code
+- Implement an idea from the quantum literature — or from one of our guest speaker presentations — with code.
 
 
-- Create a self-contained tutorial or demonstration of an idea from quantum computing (and submit it the 
-[PennyLane Community page](https://pennylane.ai/qml/demos_community.html)!)
+- Create a self-contained tutorial or demonstration of an idea from quantum computing. See the [PennyLane Community page](https://pennylane.ai/qml/demos_community.html) to see what we're looking for!
 
 
-- Extend one of the [QHack Coding Challenge](Coding_Challenges.md) problems in a novel or interesting way
+- Extend one of the [QHack Coding Challenges](Coding_Challenges.md) in a novel or interesting way.
 
 
-- Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
+- Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device.
 
 
-- Submit a Pull Request to an open-source library with a new feature
+- Submit a Pull Request to an open-source library with a new feature.
 
 All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
@@ -71,7 +70,7 @@ Details about power-ups will be announced soon!
 - **February 21**: The hackathon has not yet started but a power-up will be given to those teams with the best scores in the coding challenges (details to be confirmed).
 
 
-- **February 22**: Hackathon topics are announced! Time to get to work
+- **February 22**: Hackathon topics are announced! Time to get to work.
 
 
 - More power-ups will be given during the week! Don't forget to make a partial submission with the `PowerUp` label if you want to qualify for them. We will soon announce until when you can make these submissions.
