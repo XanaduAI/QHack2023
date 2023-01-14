@@ -28,7 +28,6 @@ To submit your team's entry for any of these prizes, you should follow these ste
 4. If, on the other hand, you are submitting your work for the final project — _not_ a power-up — you must add the `Done` label to the issue created in step 2. If you submitted your work previously for a power-up, create a new issue for your final project submission — do not reuse the power-up submission.
 
 And that's it — as easy as that! 
-Make sure you do not make any changes to the issue after the closing date or it will not be evaluated. 
 
 
 ---
