@@ -1,4 +1,6 @@
+<p align="center">
 <img src="img/qhack-banner.png" alt="drawing" width="70%"/>
+</p>
 
 ## QHack Open Hackathon
 
