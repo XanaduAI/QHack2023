@@ -46,7 +46,7 @@ You could brainstorm a new idea with your team, or start from one of the followi
 - Create a self-contained tutorial or demonstration of an idea from quantum computing. See the [PennyLane Community page](https://pennylane.ai/qml/demos_community.html) to see what we're looking for!
 
 
-- Extend one of the [QHack Coding Challenges](Coding_Challenges.md) in a novel or interesting way.
+- Extend one of the QHack Coding Challenges in a novel or interesting way.
 
 
 - Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device.
@@ -79,7 +79,9 @@ Details about power-ups will be announced soon!
 - **February 28**: Time is up! The deadline is 5pm ET, so make sure you have everything ready in advance to avoid last minute problems.
 ---
 ### Hackathon Prizes
+
 _Details for each Hackathon topic will be released on February 22, 10am ET._
+
 ---
 #### Visualization Challenge
 
