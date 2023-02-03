@@ -86,17 +86,34 @@ _Details for each Hackathon topic will be released on February 22, 10am ET._
 ---
 #### Visualization Challenge
 
+
+
+**First Prize**:
+
 Sponsored by:
 [Atom Computing](https://atom-computing.com)
 
-**Prize**:
--   One-person two-part trip. Part 1: Office in Berkeley, California, USA to meet their  team. Part 2: Office in Boulder to meet their team and tour the facility.
+- One-person two-part trip. 
+  - Part 1: Office in Berkeley, California, USA to meet their  team. 
+  - Part 2: Office in Boulder to meet their team and tour the facility.
+- Paid Expenses: Flight and accommodation
+
+**Second Prize**:
+
+Sponsored by:
+[Rigetti](https://www.rigetti.com)
+
+- Early access to Ankaa™, Rigetti’s fourth generation 84-qubit system available in Q3 2023.
+- Up to four sets of Apple® AirPods®.
+
+
+**Third Prize**:
 
 Sponsored by:
 [Strangeworks](https://strangeworks.com)
 
-**Prize**:
 - One year software license to the Strangeworks Enterprise level product with USD $3,000 in hardware credits.
+
 - The winners will get the opportunity to work with Strangeworks Director of Application development for up to 15 hours to develop and launch an application on the Strangeworks platform.
 
 
@@ -106,21 +123,29 @@ Sponsored by:
 #### Quantum Chemistry Challenge
 
 
+**First Prize**:
 
 Sponsored by:
-[QunaSys](https://qunasys.com/en/)
+[IBM Quantum](https://www.ibm.com/quantum) & [PINQ2](https://pinq2.com)
 
-**Prize**:
-- Two on-site internship positions for one month in Tokyo. The salary will be 300,000 JPY plus flight and accommodation.
-- Nintendo Switches / Sony Headsets (maximum 4 electronic items in total).
+- Block of 10 hours access on a 127-qubit Eagle processor.
+
+**Second Prize**:
+
+Sponsored by:
+[QunaSys](https://qunasys.com)
+
+- Two on-site internship positions for one month in Tokyo (full-time). The salary will be 300,000 JPY plus flight and accommodation.
+- Each team member will have the choice between either one Nintendo Switch™ Console or one set of Sony WH-1000XM5 Wireless Noise Cancelling Headphones  (maximum 4 electronic items in total).
+
+
+**Third Prize**:
 
 Sponsored by:
 [qBraid](https://qbraid.com)
 
-**Prize**:
 - Remote internship for 6 weeks with a salary of $6,000 USD (one spot).
-- Apple airpods 3rd generation (up to three).
-
+- Up to three sets of Apple® AirPods® for team members not participating in the internship.
 
 
 ---
@@ -129,77 +154,124 @@ Sponsored by:
 #### Hybrid Quantum-Classical Computing Challenge
 
 
+**First Prize**:
+
 Sponsored by:
 [Covalent](https://www.covalent.xyz/)
 
-**Prize**:
-- Macbook/electronics up to $5,000 USD.
+- Up to four Apple Watches®
 
-Sponsored by:
-[QuEra](https://www.quera.com)
-
-**Prize**:
-- $1.000 USD electronics per team participant (maximum of $4,000 USD).
-- Atomic certificate of victory.
-- A virtual presentation of their results to the team at Atomic.
+**Second Prize**:
 
 Sponsored by:
 [IQM](https://www.meetiqm.com)
 
-**Prize**:
-- Up to 4 tickets for Superconducting Qubits and Algorithms Conference 2023 (in Munich). It includes a travel budget of up to €2,400 to be split among the whole team.
+- Collaboration between members of the winning team and IQM to support advancement of the winning team's work.
+- Up to 4 tickets for [Superconducting Qubits and Algorithms Conference 2023](https://sqa-conference.org/) (in Munich). It includes a travel budget of up to €2,400 to be split among the whole team.
+
+
+**Third Prize**:
+
+Sponsored by:
+[QuEra](https://www.quera.com)
+
+- Up to four reMarkable tablets with Marker and Folio
+- Atomic Certificate of Victory
 
 
 ---
 
 #### Quantum computing today!
 
+
+**First Prize**:
+
 Sponsored by:
 [Classiq](https://www.classiq.io)
 
-**Prize**:
-- Full-time paid remote internships. This will include a weekend trip to the Classiq offices in Tel Aviv. The total budget will be $5,000 USD.
+- One full-time paid remote internship. This will include a weekend trip to the Classiq offices in Tel Aviv. The total budget will be $5,000 USD.
+  - Alternatively, if more than one team member qualifies for the internship, the USD $5,000 salary and travel expenses will be split among the team members.
+  - Alternatively, team members may choose to forfeit the internship and instead opt for physical prizes (e.g., electronics) totalling up to USD $5,000.
+
+**Second Prize**:
+
+Sponsored by:
+[Beit](https://beit.tech)
 
 
+- One person trip to meet the Beit's team for an on-site research experience and tour their office in Kraków, Poland.
+Paid Expenses: Flight and accommodation.
+
+- Up to three sets electronics (e.g., Apple® AirPods®, tablet, laptop) valued at approximately USD $750 for team members not participating in the trip to Kraków, Poland.
+
+**Third Prize**:
+
+Sponsored by:
+[Multiverse Computing](https://multiversecomputing.com)
+
+- One full-time, paid, on-site internships in San Sebastian, Spain.
+The duration is six months with a salary of EUR 1200 net and relocation package of up to EUR 2000
+
+- For team members not participating in the internship, up to three sets of Apple® AirPods®.
 
 
 ---
 
 #### QEC and Compilation Challenge
 
+
+**First Prize**:
+
 Sponsored by:
 [Nord Quantique](https://www.nordquantique.ca)
 
-**Prize**:
-- $5,000 USD paid trip to visit the Sherbrooke ecosystem.
+- $5,000 USD paid one person trip to meet the Nord Quantique team and tour the ecosystem in Sherbrooke, Quebec, Canada. 
+  - Alternatively, the approximate USD $5,000 travel budget may be shared across all team members to meet the Nord Quantique team and tour the ecosystem in Sherbrooke, Quebéc, Canada. In addition, Nord Quantique pays for accommodations and meals
+
+**Second Prize**:
 
 Sponsored by:
 [Entropica Labs](https://www.entropicalabs.com)
 
-**Prize**:
-- Full-time remote internship for 3 months at USD $1.5k per month.
-- Airpods 3rd Generation (up to 4 sets) and Entropica T-shirts (up to 4).
 
+- Full-time remote internship for 3 months at USD $1,500 per month. 
+  - Alternatively, if more than one team member qualifies for the internship, the USD $1,500 per month salary will be split among the team members.
+- Apple® AirPods® 3rd Generation (up to 3) and Entropica T-shirts (up to 3).
+
+**Third Prize**:
+
+Sponsored by:
+[AQT](https://www.aqt.eu)
+
+- Block of two hours access to AQT's QPU over the cloud.
 
 
 
 
 ---
 
-#### Specific hardware project
+#### [NVIDIA](https://www.nvidia.com) Challenge
 
-if your hackathon project uses the following technologies, it will be eligible to win more prizes:
 
-[NVIDIA](https://www.nvidia.com)
 
-**Prize**:
+
+**Prizes**:
 - **1st place**:  Up to four Geforce RTX 4090s GPUs (one per team member)
 - **2nd place**:  Up to four Geforce RTX 3090s GPUs (one per team member)
 - **3rd place**:  Up to four Geforce RTX 3080s GPUs (one per team member)
 
 ---
-More sponsors and prizes are on the way so stay tuned!
+#### [Amazon Braket](https://aws.amazon.com/braket/) Challenge
 
+**Prizes**:
+
+- For each of the Top 3 winning teams:
+  - Amazon Braket swag
+  - Mini-mentorship meeting with an Amazon Scholar in Quantum Technologies
+  - USD $10,000 in AWS hardware credits
+  - Featured in a blog post on the AWS Quantum Technologies channel
+  - USD $50 Amazon gift card for each member of the team (maximum twelve participants in total)
+  
 ---
 
 
