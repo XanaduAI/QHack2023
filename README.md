@@ -30,7 +30,7 @@ To submit your team's entry for any of these prizes, you should follow these ste
 4. If, on the other hand, you are submitting your work for the final project — _not_ a power-up — you must add the `Done` label to the issue created in step 2. If you submitted your work previously for a power-up, create a new issue for your final project submission — do not reuse the power-up submission.
 
 In the template you will be asked to add a link to your repository. In this case, instead of sending a link to the `main` branch, **you should send the link to the commit at that time**. 
-Here I share with you a gif in which we can see how to link to the last commit.
+Here, I share with you a gif in which we can see how to link to the last commit.
 
 <p align="center">
 <img src="img/link_commit.gif" alt="drawing" width="100%"/>
