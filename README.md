@@ -83,7 +83,7 @@ Details about power-ups will be announced soon!
 - **February 22**: Hackathon topics are announced! Time to get to work.
 
 
-- **February 23**: If you want to get a power up don't forget to make a partial submission with the `PowerUp` label. At 5PM ET we will no longer accept submissions for powerups.
+- **February 23**: If you want to get a power up don't forget to make a partial submission with the `PowerUp` label. At 5PM ET, we will no longer accept submissions for powerups.
 
 
 - **February 24**: The teams that have uploaded the best projects will receive the power ups.
