@@ -36,7 +36,7 @@ Here, I share with you a gif in which we can see how to link to the last commit.
 <img src="img/link_commit.gif" alt="drawing" width="100%"/>
 </p>
 
-Once you are showing the files associated with the commit, copy the link that appears above in the browser.
+Once your screen shows the files associated with the commit, copy the link that appears above in the browser.
 
 And that's it — as easy as that! 
 
