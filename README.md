@@ -18,7 +18,7 @@ See below for challenge topics and additional eligibility criteria. Complete det
 
 To submit your team's entry for any of these prizes, you should follow these steps:
 
-1. Create a folder called `project_<name of your team>` with your hackathon project and zip it.
+1. Create a repository with your project.
 
 
 2. Create an issue in this repository following this [template](https://github.com/XanaduAI/QHack2023/issues/4).
@@ -28,6 +28,15 @@ To submit your team's entry for any of these prizes, you should follow these ste
 
 
 4. If, on the other hand, you are submitting your work for the final project — _not_ a power-up — you must add the `Done` label to the issue created in step 2. If you submitted your work previously for a power-up, create a new issue for your final project submission — do not reuse the power-up submission.
+
+In the template you will be asked to add a link to your repository. In this case, instead of sending a link to the `main` branch, **you should send the link to the commit at that time**. 
+Here, I share with you a gif in which we can see how to link to the last commit.
+
+<p align="center">
+<img src="img/link_commit.gif" alt="drawing" width="100%"/>
+</p>
+
+Once your screen shows the files associated with the commit, copy the link that appears above in the browser.
 
 And that's it — as easy as that! 
 
@@ -74,7 +83,10 @@ Details about power-ups will be announced soon!
 - **February 22**: Hackathon topics are announced! Time to get to work.
 
 
-- More power-ups will be given during the week! Don't forget to make a partial submission with the `PowerUp` label if you want to qualify for them. We will soon announce until when you can make these submissions.
+- **February 23**: If you want to get a power up don't forget to make a partial submission with the `PowerUp` label. At 5PM ET, we will no longer accept submissions for powerups.
+
+
+- **February 24**: The teams that have uploaded the best projects will receive the power ups.
 
 
 - **February 28**: Time is up! The deadline is 5pm ET, so make sure you have everything ready in advance to avoid last minute problems.
