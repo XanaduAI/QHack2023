@@ -79,11 +79,15 @@ Details about power-ups will be announced soon!
 
 - **February 21**: The hackathon has not yet started but a power-up will be given to those teams with the best scores in the coding challenges (details to be confirmed).
 
+
 - **February 22**: Hackathon topics are announced! Time to get to work.
+
 
 - **February 23**: If you want to get a power up don't forget to make a partial submission with the `PowerUp` label. At 5PM ET we will no longer accept submissions for powerups.
 
+
 - **February 24**: The teams that have uploaded the best projects will receive the power ups.
+
 
 - **February 28**: Time is up! The deadline is 5pm ET, so make sure you have everything ready in advance to avoid last minute problems.
 ---
