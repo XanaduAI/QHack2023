@@ -71,7 +71,9 @@ All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms
 
 ### Power Ups
 
-Details about power-ups will be announced soon!
+To qualify for the power-ups awarded for the most promising preliminary hackathon projects, you must complete and submit the form available [here](https://forms.gle/2LAejv5mhVv4z1io6) by Thursday, February 23, 2023, at 5:00 PM EST.
+
+More etails about power-ups will be announced soon!
 
 ---
 
