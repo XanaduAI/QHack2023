@@ -71,9 +71,16 @@ All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms
 
 ### Power Ups
 
-To qualify for the power-ups awarded for the most promising preliminary hackathon projects, you must complete and submit the form available [here](https://forms.gle/2LAejv5mhVv4z1io6) by Thursday, February 23, 2023, at 5:00 PM EST.
+NVIDIA/Cyxtera/Run:AI Power-Ups
+The twenty-four (24) teams with the most promising preliminary hackathon projects using NVIDIA GPUs will each be awarded time on an A100 GPU.
 
-More etails about power-ups will be announced soon!
+IBM Quantum/PINQ² Power-Ups
+The eight (8) teams with the most promising preliminary hackathon projects will be awarded  three (3) hours dedicated reservation hours on a 16-qubit QPU.
+
+Amazon Braket Hackathon Power-Ups
+The fifteen (15) teams with the most promising preliminary hackathon projects will each be awarded USD $2,000 in AWS credits.
+
+To qualify for the power-ups awarded for the most promising preliminary hackathon projects, you must complete and submit the form available [here](https://forms.gle/2LAejv5mhVv4z1io6) by Thursday, February 23, 2023, at 5:00 PM EST.
 
 ---
 
