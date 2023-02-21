@@ -47,7 +47,7 @@ And that's it — as easy as that!
 
 ### What hackathon project should my team do?
 
-The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
+Although there will be a specific set of hackathon topics, within a topic, the choice is up to you (unless the topic specifies otherwise).
 You could brainstorm a new idea with your team, or start from one of the following seed ideas:
 
 - Implement an idea from the quantum literature — or from one of our guest speaker presentations — with code.
