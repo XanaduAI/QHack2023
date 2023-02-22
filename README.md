@@ -155,7 +155,7 @@ Sponsored by:
 
 - Block of 10 hours access on a 127-qubit Eagle processor.
 
-*Here are some ideas: use the Circuit Knitting Toolbox to simulate and calculate energy states of large molecules (i.e. larger than H₂O), use the error mitigation and error suppression methods built into the Qiskit Runtime to produce high quality calculations of molecular energy states and vibrational energies, simulate lattices or material surfaces using the lattice problems constructs in Qiskit Nature, use quantum machine learning to classify molecules based on a useful interaction or property.*
+*Here are some ideas: use the Circuit Knitting Toolbox to simulate and calculate energy states of this large molecule, use the error mitigation and error suppression methods built into the Qiskit Runtime to produce high quality calculations of molecular energy states and vibrational energies.*
 
 **Second Prize**:
 
@@ -226,7 +226,7 @@ Sponsored by:
   - Alternatively, if more than one team member qualifies for the internship, the USD $5,000 salary and travel expenses will be split among the team members.
   - Alternatively, team members may choose to forfeit the internship and instead opt for physical prizes (e.g., electronics) totalling up to USD $5,000.
 
-*If you're not sure where to start, visit [Classiq Academia](Classiq Academia: https://www.classiq.io/academia).*
+*If you're not sure where to start, visit [Classiq Academia](https://www.classiq.io/academia).*
 
 **Second Prize**:
 
@@ -238,8 +238,6 @@ Sponsored by:
 Paid Expenses: Flight and accommodation.
 
 - Up to three sets of electronics (e.g., Apple® AirPods®, tablet, laptop) valued at approximately USD $750 for team members not participating in the trip to Kraków, Poland.
-
-*We encourage you to seek inspiration in quantum algorithms for the vibrational motion calculations. With PennyLane you may want to explore the latest progress in the newly emerging field of simulating the vibrational dynamics of molecules with quantum computers, apply or extend some of these methods: [[1]](https://doi.org/10.1103/PhysRevA.104.062419), [[2]](https://doi.org/10.1021/acs.accounts.1c00514), [[3]](https://doi.org/10.1116/5.0091144), [[4]](https://doi.org/10.1038/s41534-020-0278-0). Enjoy!*
 
 **Third Prize**:
 
@@ -287,7 +285,7 @@ Sponsored by:
 
 - Block of two hours access to AQT's QPU over the cloud.
 
-*AQT wishes you all success and good luck! Here are some sources of inspiration for the hackathon: [[1]](https://www.aqt.eu/aqt-pushing-performance-with-a-quantum-volume-of-128/), [[2]](https://www.aqt.eu/quantum-volume-128/), [[3]](https://www.aqt.eu/pine-system-fault-tolerant/), [[4]](https://www.aqt.eu/pine-system-20-qubit-control/)
+*AQT wishes you all success and good luck! Here are some sources of inspiration for the hackathon: [[1]](https://www.aqt.eu/aqt-pushing-performance-with-a-quantum-volume-of-128/), [[2]](https://www.aqt.eu/quantum-volume-128/), [[3]](https://www.aqt.eu/pine-system-fault-tolerant/), [[4]](https://www.aqt.eu/pine-system-20-qubit-control/)*
 
 
 
