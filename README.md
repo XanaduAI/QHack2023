@@ -362,8 +362,8 @@ Using Amazon Braket simulators or quantum processing units (QPUs), implement a q
 - [documentation](https://docs.aws.amazon.com/braket/)
 - blog posts:
   - [Simulating quantum circuits](https://aws.amazon.com/blogs/quantum-computing/simulating-quantum-circuits-with-amazon-braket/)
-  - [https://aws.amazon.com/blogs/quantum-computing/noise-in-quantum-computing/](Noise in quantum computing)
-  - [https://aws.amazon.com/blogs/quantum-computing/introducing-the-qiskit-provider-for-amazon-braket/](Introducing the Qiskit provider for Amazon Braket)
+  - [Noise in quantum computing](https://aws.amazon.com/blogs/quantum-computing/noise-in-quantum-computing/)
+  - [Introducing the Qiskit provider for Amazon Braket](https://aws.amazon.com/blogs/quantum-computing/introducing-the-qiskit-provider-for-amazon-braket/)
   - [Suppressing errors with dynamical decoupling using pulse control](https://aws.amazon.com/blogs/quantum-computing/suppressing-errors-with-dynamical-decoupling-using-pulse-control-on-amazon-braket/)
   - [Optimization of robot trajectory planning with nature-inspired and hybrid quantum algorithms](https://aws.amazon.com/blogs/quantum-computing/optimization-of-robot-trajectory-planning-with-nature-inspired-and-hybrid-quantum-algorithms/)
   - [Optimization with a Rydberg atom-based quantum processor](https://aws.amazon.com/blogs/quantum-computing/optimization-with-rydberg-atom-based-quantum-processor/)
