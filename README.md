@@ -377,7 +377,6 @@ Using Amazon Braket simulators or quantum processing units (QPUs), implement a q
 - General quantum questions: [https://quantumcomputing.stackexchange.com/](https://quantumcomputing.stackexchange.com/)
 
 *We are excited to see what you build combining your ingenuity, PennyLane, and Amazon Braket during the hackathon. We invite you to stay in touch with AWS following QHack via the AWS Quantum Computing Blog.
-
 Best of luck!
 The Amazon Braket team*
 
