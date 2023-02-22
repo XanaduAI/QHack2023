@@ -110,7 +110,7 @@ _Details for each Hackathon topic will be released on February 22, 10am ET._
 ---
 #### Visualization Challenge
 
-
+In this hackathon you are asked to create a program capable of automating the creation of a specific type of plot or visualization using code. These plots should illustrate a system, describe a quantum computing concept, or even generate quantum-inspired art automatically. Beyond the Bloch sphere, how can we represent more than one qubit? What about a way to visualize entanglement? Or a method to depict a qutrit? Visualization is fundamental to understand everything we do! Look for a topic and get to work!
 
 **First Prize**:
 
@@ -147,6 +147,7 @@ Sponsored by:
 
 #### Quantum Chemistry Challenge
 
+One of the main applications of quantum computing is the calculation of the ground state energy of specific molecules. As we calculate, we always work with approximations and models that simplify the real-world system, but move us away from the empirical results obtained in the laboratory. In this hackathon we will face a molecule a bit larger than normal: $BeH_2$. Your goal will be, with the help of a quantum computational algorithm, to obtain a result as close as possible to the real ground state energy value. Not only will the obtained result be evaluated, but other parameters such as time efficiency and the cleverness of your ideas will also be taken into account.
 
 **First Prize**:
 
@@ -182,6 +183,7 @@ Sponsored by:
 
 #### Hybrid Quantum-Classical Computing Challenge
 
+As you may already know, one of the big bets in quantum is hybrid computing, in which we combine the potential of quantum and classical computers to obtain results we would not be able to achieve with classical computing alone. This field is ripe for big, bold new ideas, which is where you come in! This hackathon asks you to look for new problems to which hybrid computing could be applied, think of new, interesting QML models, push the limits of hybrid programming and show us what it can do.
 
 **First Prize**:
 
@@ -216,6 +218,7 @@ Sponsored by:
 
 #### Quantum computing today!
 
+Since last year’s QHack we’ve witnessed many breakthroughs and groundbreaking, original ideas in the field of quantum computing. Today is the day to discover the potential of newly published research and realize it. In this hackathon we ask you to find scientific papers that have been published after February 2nd, 2022. You can try to replicate their results, extend them or even contribute new ideas to advance the presented research. Let's show what a good year it has been!
 
 **First Prize**:
 
@@ -255,6 +258,7 @@ The duration is six months with a salary of EUR 1200 net and relocation package 
 
 #### QEC and Compilation Challenge
 
+We keep hearing that quantum computers are subject to noise and that we are in the NISQ era. Even now we are still far from being able to deal well with noise, so the goal of this hackathon will be to improve our faults. Find new error correcting codes? Optimize the complication of processing certain operators? You are free to choose your own project, so long as you keep one idea in mind: facilitate the execution of quantum circuits subjected to noise as best as you can.
 
 **First Prize**:
 
@@ -293,8 +297,7 @@ Sponsored by:
 
 #### [NVIDIA](https://www.nvidia.com) Challenge
 
-
-*Leverage cuQuantum and/or QODA in your workflow to do something impactful for the quantum computing field. This could be new quantum kernels for a hybrid quantum classical application, research into noisy simulations or error correction codes, integrations with your favorite framework, or maybe leveraging approximate tensor networks algorithms to find ways to do more with less.*
+Fault-tolerant quantum computers are coming, but we still have a lot of work to do to develop useful algorithms, and identify what applications will benefit the most from FTQCs. When Quantum Computers are in production they will be co-processors to GPUs. NVIDIA cuQuantum and QODA both enable you to get ready for tomorrow, today by allowing you run super fast quantum circuit simulations at scale and integrate classical workflows seamlessly with quantum processes. Leverage cuQuantum and/or QODA in your workflow to do something impactful for the quantum computing field. This could be new quantum kernels for a hybrid quantum classical application, research into noisy simulations or error correction codes, integrations with your favorite framework, or maybe leveraging approximate tensor networks algorithms to find ways to do more with less.
 
 **Prizes**:
 - **1st place**:  Up to four Geforce RTX 4090s GPUs (one per team member)
@@ -329,9 +332,19 @@ Sponsored by:
 - [Accelerating Quantum Circuit Simulations with cuStateVec](https://developer.nvidia.com/blog/accelerating-quantum-circuit-simulation-with-nvidia-custatevec/)
 - [Best-in-class multinode cuQuantum Appliance](https://developer.nvidia.com/blog/best-in-class-quantum-circuit-simulation-at-scale-with-nvidia-cuquantum-appliance/)
 
+Anything that you would have liked done better? Product Feedback for cuQuantum, QODA, Run:AI, Was there something missing that you expected to be included?
+If you could include any of these answers in the project, it will be very useful to us.
 
 ---
 #### [Amazon Braket](https://aws.amazon.com/braket/) Challenge
+
+Using Amazon Braket simulators or quantum processing units (QPUs), implement a quantum algorithm of your choice for a particular use case. Need inspiration? Check out last year’s Amazon Braket challenge winners, [here](https://aws.amazon.com/blogs/quantum-computing/qhack-2022-highlights-and-amazon-braket-challenge-winners-announced/). Use cases for social good is strongly encouraged, but not required. Several application areas which may be of interest are as follows, but don’t feel limited to these topics:
+             
+- Climate change (e.g. optimizing the power grid, simulating novel materials for carbon capture or high temperature superconductivity, etc.)
+             
+- Healthcare (e.g. simulating chemical reactions for drug development, predicting RNA folding, optimizing hospital bed allocation, etc.)
+             
+- Manufacturing (e.g. optimizing an automotive assembly-line, minimizing carbon output for a factory)
 
 **Prizes**:
 
