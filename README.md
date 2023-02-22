@@ -71,7 +71,7 @@ All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms
 
 ### Power-Ups
 
-**[NVIDIA](https://www.nvidia.com)/Cyxtera/Run:AI Power-Ups**:
+**[NVIDIA](https://www.nvidia.com)/Cyxtera Technologies/Run:ai Power-Ups**:
 
 The twenty-four (24) teams with the most promising preliminary hackathon projects using NVIDIA GPUs will each be awarded time on an A100 GPU.
 
@@ -83,7 +83,7 @@ The eight (8) teams with the most promising preliminary hackathon projects will 
 
 The fifteen (15) teams with the most promising preliminary hackathon projects will each be awarded USD $2,000 in AWS credits.
 
-To qualify for the power-ups awarded for the most promising preliminary hackathon projects, you must complete and submit the form available [here](https://forms.gle/2LAejv5mhVv4z1io6) by Thursday, February 23, 2023, at 5:00 PM EST.
+To qualify for the power-ups awarded for the most promising preliminary hackathon projects, you must complete and submit the form available [here](https://forms.gle/2LAejv5mhVv4z1io6) by Thursday, February 23, 2023, at 5:00 p.m. EST.
 
 ---
 
@@ -130,6 +130,7 @@ Sponsored by:
 - Early access to Ankaa™, Rigetti’s fourth generation 84-qubit system available in Q3 2023.
 - Up to four sets of Apple® AirPods®.
 
+*Data visualization is one of the most powerful problem solving tools we have. A glance at the right graph can suggest an elegant solution to a problem from what would otherwise be a lifeless table of numbers. [When Graphs are a Matter of Life and Death](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) is an engaging article describing the history of data visualization and how it revolutionized the way we solve problems. The visualization and plotting challenge is a great opportunity to hone your data visualization skills so you too can leverage the power of graphs to solve the world's problems.*
 
 **Third Prize**:
 
@@ -140,7 +141,7 @@ Sponsored by:
 
 - The winners will get the opportunity to work with Strangeworks Director of Application development for up to 15 hours to develop and launch an application on the Strangeworks platform.
 
-
+*We want to see you do everything you can think of. Good luck!*
 
 ---
 
@@ -154,6 +155,8 @@ Sponsored by:
 
 - Block of 10 hours access on a 127-qubit Eagle processor.
 
+*Here are some ideas: use the Circuit Knitting Toolbox to simulate and calculate energy states of large molecules (i.e. larger than H₂O), use the error mitigation and error suppression methods built into the Qiskit Runtime to produce high quality calculations of molecular energy states and vibrational energies, simulate lattices or material surfaces using the lattice problems constructs in Qiskit Nature, use quantum machine learning to classify molecules based on a useful interaction or property.*
+
 **Second Prize**:
 
 Sponsored by:
@@ -162,6 +165,7 @@ Sponsored by:
 - Two on-site internship positions for one month in Tokyo (full-time). The salary will be 300,000 JPY plus flight and accommodation.
 - Each team member will have the choice between either one Nintendo Switch™ Console or one set of Sony WH-1000XM5 Wireless Noise Cancelling Headphones  (maximum 4 electronic items in total).
 
+*As inspiration, you can check out [qulacs on GitHub](https://github.com/qulacs/qulacs), [QURI Parts documentation](https://quri-parts.qunasys.com/), or [QURI Parts tutorials](https://quri-parts.qunasys.com/tutorials.html).*
 
 **Third Prize**:
 
@@ -171,6 +175,7 @@ Sponsored by:
 - Remote internship for 6 weeks with a salary of $6,000 USD (one spot).
 - Up to three sets of Apple® AirPods® for team members not participating in the internship.
 
+*This [review article on variational quantum eigensolvers for quantum chemistry](https://www.sciencedirect.com/science/arelativelye/pii/S0370157322003118) covers many new technique that still need to be implemented.If you are looking to write code for some new techniques, you will find this paper helpful. A bonus tip: there has been good progress in fermion to qubit mappings in the past year. But, which fermionic encoding is most resilient to errors in NISQ devices is still unknown. It would be wonderful if people could look into this problem. With good enough progress, this could lead to a nice paper.*
 
 ---
 
@@ -185,6 +190,8 @@ Sponsored by:
 
 - Up to four Apple Watches®
 
+*Curious about the possibility of using both quantum and classical computing to create a time machine? Check out this [PennyLane demo](https://pennylane.ai/qml/demos/tutorial_univariate_qvr.html) and learn how to use Covalent and Pennylane to dance between classical and quantum parts in your code.*
+
 **Second Prize**:
 
 Sponsored by:
@@ -193,6 +200,7 @@ Sponsored by:
 - Collaboration between members of the winning team and IQM to support advancement of the winning team's work.
 - Up to 4 tickets for [Superconducting Qubits and Algorithms Conference 2023](https://sqa-conference.org/) (in Munich). It includes a travel budget of up to €2,400 to be split among the whole team.
 
+*We are always on the lookout for genuine hybrid algorithms that have both heavy classical and quantum loads, as examples of workflows that could make real use of a large classical computation. Typical variational algorithms tend to have very limited classical computing needs, so it would be interesting to see something that uses a VQA only as a sub-routine, or even does something completely different.*
 
 **Third Prize**:
 
@@ -202,6 +210,7 @@ Sponsored by:
 - Up to four reMarkable tablets with Marker and Folio
 - Atomic Certificate of Victory
 
+*Preparing large and entangled quantum states is a main challenge in quantum computing — at QuEra, we've got you covered for both! As your duty, should you choose to accept it: explore methods to optimize Hamiltonian parameters classically. For example, try to prepare a Z2 state (alternated 0101) in a line, while overcoming the limitations of adiabatic protocols. Here are a few ideas that have not yet been demonstrated with neutral atoms, but should be possible: [[1]](https://www.pnas.org/doi/full/10.1073/pnas.1619826114), [[2]](https://arxiv.org/abs/1904.03209)*
 
 ---
 
@@ -217,16 +226,20 @@ Sponsored by:
   - Alternatively, if more than one team member qualifies for the internship, the USD $5,000 salary and travel expenses will be split among the team members.
   - Alternatively, team members may choose to forfeit the internship and instead opt for physical prizes (e.g., electronics) totalling up to USD $5,000.
 
+*If you're not sure where to start, visit [Classiq Academia](Classiq Academia: https://www.classiq.io/academia).*
+
 **Second Prize**:
 
 Sponsored by:
-[Beit](https://beit.tech)
+[BEIT](https://beit.tech)
 
 
-- One person trip to meet the Beit's team for an on-site research experience and tour their office in Kraków, Poland.
+- One person trip to meet BEIT's team for an on-site research experience and tour their office in Kraków, Poland.
 Paid Expenses: Flight and accommodation.
 
-- Up to three sets electronics (e.g., Apple® AirPods®, tablet, laptop) valued at approximately USD $750 for team members not participating in the trip to Kraków, Poland.
+- Up to three sets of electronics (e.g., Apple® AirPods®, tablet, laptop) valued at approximately USD $750 for team members not participating in the trip to Kraków, Poland.
+
+*We encourage you to seek inspiration in quantum algorithms for the vibrational motion calculations. With PennyLane you may want to explore the latest progress in the newly emerging field of simulating the vibrational dynamics of molecules with quantum computers, apply or extend some of these methods: [[1]](https://doi.org/10.1103/PhysRevA.104.062419), [[2]](https://doi.org/10.1021/acs.accounts.1c00514), [[3]](https://doi.org/10.1116/5.0091144), [[4]](https://doi.org/10.1038/s41534-020-0278-0). Enjoy!*
 
 **Third Prize**:
 
@@ -238,6 +251,7 @@ The duration is six months with a salary of EUR 1200 net and relocation package 
 
 - For team members not participating in the internship, up to three sets of Apple® AirPods®.
 
+*Check out the [D-Wave case study with Multiverse Computing](https://www.dwavesys.com/media/5qahck2o/multiverse_case_study_v8.pdf) or apply for our [open job listings and summer internships](https://multiversecomputing.com/join-us).*
 
 ---
 
@@ -252,15 +266,19 @@ Sponsored by:
 - $5,000 USD paid one person trip to meet the Nord Quantique team and tour the ecosystem in Sherbrooke, Quebec, Canada. 
   - Alternatively, the approximate USD $5,000 travel budget may be shared across all team members to meet the Nord Quantique team and tour the ecosystem in Sherbrooke, Quebéc, Canada. In addition, Nord Quantique pays for accommodations and meals
 
+  *Hey hackers, Nord Quantique is proud to sponsor this Hackathon. We are excited to see how many qubits you can simulate in your numerical experiments. 👀⚛️🚀💻*
+
 **Second Prize**:
 
 Sponsored by:
 [Entropica Labs](https://www.entropicalabs.com)
 
-
 - Full-time remote internship for 3 months at USD $1,500 per month. 
   - Alternatively, if more than one team member qualifies for the internship, the USD $1,500 per month salary will be split among the team members.
 - Apple® AirPods® 3rd Generation (up to 3) and Entropica T-shirts (up to 3).
+
+*QAOA is a NISQ-friendly algorithm with modest resource requirements. However, when compiled for execution on a target quantum computer with limited connectivity, heavy overheads can arise due to the need for SWAP operations. Minimizing the number of these additional gates is essential to extract the best performance possible. Try designing a solution to optimize the SWAP networks specifically for QAOA circuits, making your computations more resource-effective with OpenQAOA — some ideas [here](https://arxiv.org/abs/2112.06143).*
+
 
 **Third Prize**:
 
@@ -269,6 +287,7 @@ Sponsored by:
 
 - Block of two hours access to AQT's QPU over the cloud.
 
+*AQT wishes you all success and good luck! Here are some sources of inspiration for the hackathon: [[1]](https://www.aqt.eu/aqt-pushing-performance-with-a-quantum-volume-of-128/), [[2]](https://www.aqt.eu/quantum-volume-128/), [[3]](https://www.aqt.eu/pine-system-fault-tolerant/), [[4]](https://www.aqt.eu/pine-system-20-qubit-control/)
 
 
 
@@ -277,12 +296,41 @@ Sponsored by:
 #### [NVIDIA](https://www.nvidia.com) Challenge
 
 
-
+*Leverage cuQuantum and/or QODA in your workflow to do something impactful for the quantum computing field. This could be new quantum kernels for a hybrid quantum classical application, research into noisy simulations or error correction codes, integrations with your favorite framework, or maybe leveraging approximate tensor networks algorithms to find ways to do more with less.*
 
 **Prizes**:
 - **1st place**:  Up to four Geforce RTX 4090s GPUs (one per team member)
 - **2nd place**:  Up to four Geforce RTX 3090s GPUs (one per team member)
 - **3rd place**:  Up to four Geforce RTX 3080s GPUs (one per team member)
+
+**NVIDIA Resources**
+
+- [Docs](https://docs.nvidia.com/cuda/cuquantum/index.html)
+- [Getting started](https://docs.nvidia.com/cuda/cuquantum/getting_started.html)
+- [NVIDIA/Cyxtera/Run:ai channel](https://discord.com/channels/1055526483155759155/1073175330635907133) on the QHack Discord server
+- [cuQuantum appliance docs](https://docs.nvidia.com/cuda/cuquantum/appliance/index.html)
+- [custatevec docs](https://docs.nvidia.com/cuda/cuquantum/custatevec/index.html)
+- [cutensornet docs](https://docs.nvidia.com/cuda/cuquantum/cutensornet/index.html)
+- [cuQuantum Python docs](https://docs.nvidia.com/cuda/cuquantum/python/index.html)
+- [GitHub and OSS](https://github.com/NVIDIA/cuQuantum)
+- [Circuit converter](https://github.com/NVIDIA/cuQuantum/blob/main/python/cuquantum/cutensornet/circuit_converter.py) (takes a Cirq or Qiskit circuit and converts it to a tensor network)
+- [Circuit converter samples](https://github.com/NVIDIA/cuQuantum/tree/main/python/samples/cutensornet/circuit_converter)
+- [Benchmark suite](https://github.com/NVIDIA/cuQuantum/tree/main/benchmarks)
+- [Guidance on linking wheels for integrations](https://github.com/NVIDIA/cuQuantum/tree/main/extra)
+- [General Python Samples](https://github.com/NVIDIA/cuQuantum/tree/main/python/samples)
+- [General C Samples](https://github.com/NVIDIA/cuQuantum/tree/main/samples)
+- [Approximate Tensor Network Samples](https://github.com/NVIDIA/cuQuantum/tree/main/samples/cutensornet/approxTN)
+
+**Useful blog posts**
+
+- [Lightning Fast Simulations with PennyLane and the NVIDIA cuQuantum SDK](https://pennylane.ai/blog/2022/07/lightning-fast-simulations-with-pennylane-and-the-nvidia-cuquantum-sdk/)
+- [Orquestra Integration with NVIDIA cuQuantum](https://www.zapatacomputing.com/orquestra-cuquantum-integration/)
+- [NVIDIA cuQuantum and QODA Adoption Accelerates](https://blogs.nvidia.com/blog/2022/09/20/cuquantum-qoda-adoption-accelerates/)
+- [Braket-PennyLane-cuQuantum blog](https://aws.amazon.com/blogs/quantum-computing/accelerate-your-simulations-of-hybrid-quantum-algorithms-on-amazon-braket-with-nvidia-cuquantum-and-pennylane/)
+- [Scaling Quantum Circuit Simulations with cuTensorNet](https://developer.nvidia.com/blog/scaling-quantum-circuit-simulation-with-cutensornet/)
+- [Accelerating Quantum Circuit Simulations with cuStateVec](https://developer.nvidia.com/blog/accelerating-quantum-circuit-simulation-with-nvidia-custatevec/)
+- [Best-in-class multinode cuQuantum Appliance](https://developer.nvidia.com/blog/best-in-class-quantum-circuit-simulation-at-scale-with-nvidia-cuquantum-appliance/)
+
 
 ---
 #### [Amazon Braket](https://aws.amazon.com/braket/) Challenge
@@ -296,6 +344,32 @@ Sponsored by:
   - Featured in a blog post on the AWS Quantum Technologies channel
   - USD $50 Amazon gift card for each member of the team (maximum twelve participants in total)
   
+
+**Amazon Braket resources:**
+
+- [example notebooks](https://github.com/aws/amazon-braket-examples)
+- [documentation](https://docs.aws.amazon.com/braket/)
+- blog posts:
+  - [Simulating quantum circuits](https://aws.amazon.com/blogs/quantum-computing/simulating-quantum-circuits-with-amazon-braket/)
+  - [https://aws.amazon.com/blogs/quantum-computing/noise-in-quantum-computing/](Noise in quantum computing)
+  - [https://aws.amazon.com/blogs/quantum-computing/introducing-the-qiskit-provider-for-amazon-braket/](Introducing the Qiskit provider for Amazon Braket)
+  - [Suppressing errors with dynamical decoupling using pulse control](https://aws.amazon.com/blogs/quantum-computing/suppressing-errors-with-dynamical-decoupling-using-pulse-control-on-amazon-braket/)
+  - [Optimization of robot trajectory planning with nature-inspired and hybrid quantum algorithms](https://aws.amazon.com/blogs/quantum-computing/optimization-of-robot-trajectory-planning-with-nature-inspired-and-hybrid-quantum-algorithms/)
+  - [Optimization with a Rydberg atom-based quantum processor](https://aws.amazon.com/blogs/quantum-computing/optimization-with-rydberg-atom-based-quantum-processor/)
+
+**How to get support for Amazon Braket:**
+
+- Quickest response: [#🕸aws](https://discord.com/channels/1055526483155759155/1073175201933709354) channel (amazon “web” services — get it? ;)) on the QHack Discord server
+- Live help: Office Hours voice channel: [#aws-office-hours](https://discord.com/channels/1055526483155759155/1075859494824857630)
+- Email help: [qhack-support@amazon.com](mailto:qhack-support@amazon.com)
+- Braket forum: [re:Post - Amazon Braket](https://repost.aws/tags/questions/TAhMWeHkpfSMSCxIFNqcqYog)
+- General quantum questions: [https://quantumcomputing.stackexchange.com/](https://quantumcomputing.stackexchange.com/)
+
+*We are excited to see what you build combining your ingenuity, PennyLane, and Amazon Braket during the hackathon. We invite you to stay in touch with AWS following QHack via the AWS Quantum Computing Blog.
+
+Best of luck!
+The Amazon Braket team*
+
 ---
 
 
