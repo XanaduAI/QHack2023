@@ -240,6 +240,8 @@ Paid Expenses: Flight and accommodation.
 
 - Up to three sets of electronics (e.g., Apple® AirPods®, tablet, laptop) valued at approximately USD $750 for team members not participating in the trip to Kraków, Poland.
 
+*We encourage you to seek inspiration in quantum algorithms for the vibrational motion calculations. With PennyLane you may want to explore the latest progress in the newly emerging field of simulating the vibrational dynamics of molecules with quantum computers, apply or extend some of these newer methods. Enjoy!*
+
 **Third Prize**:
 
 Sponsored by:
