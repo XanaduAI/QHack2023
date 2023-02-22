@@ -105,8 +105,6 @@ To qualify for the power-ups awarded for the most promising preliminary hackatho
 ---
 ### Hackathon Prizes
 
-_Details for each Hackathon topic will be released on February 22, 10am ET._
-
 ---
 #### Visualization Challenge
 
