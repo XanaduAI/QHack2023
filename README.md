@@ -24,10 +24,10 @@ To submit your team's entry for any of these prizes, you should follow these ste
 2. Create an issue in this repository following this [template](https://github.com/XanaduAI/QHack2023/issues/4).
 
 
-3. If you are applying for a power-up, indicate this by adding the `PowerUp` label to the issue you created in step 2.
+3. If you are applying for a power-up, indicate this by adding the `PowerUp` label to the issue you created in step 2 (alternatively, type `[power-up]` at the beginning of the issue name).
 
 
-4. If, on the other hand, you are submitting your work for the final project — _not_ a power-up — you must add the `Done` label to the issue created in step 2. If you submitted your work previously for a power-up, create a new issue for your final project submission — do not reuse the power-up submission.
+4. If, on the other hand, you are submitting your work for the final project — _not_ a power-up — you must add the `Done` label to the issue created in step 2 (alternatively, `[Done]`). If you submitted your work previously for a power-up, create a new issue for your final project submission — do not reuse the power-up submission.
 
 In the template you will be asked to add a link to your repository. In this case, instead of sending a link to the `main` branch, **you should send the link to the commit at that time**. 
 Here, I share with you a gif in which we can see how to link to the last commit.
