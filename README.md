@@ -2,6 +2,8 @@
 <img src="img/qhack-banner.png" alt="drawing" width="70%"/>
 </p>
 
+CHANGE THIS
+
 ## QHack Open Hackathon
 
 Share your ideas with the quantum world at QHack's famous open hackathon!
