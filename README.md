@@ -1,6 +1,12 @@
+<div style="background-color: #80dfff; color: black; padding: 10px; border-radius: 5px;">
+    QHack is back with new challenges and prizes! <a href="https://qhack.ai" style="color: blue;">Sign up</a> for the event and get ready for the adventure! (2024)
+</div>
+
 <p align="center">
 <img src="img/qhack-banner.png" alt="drawing" width="70%"/>
 </p>
+
+
 
 ## QHack Open Hackathon
 
