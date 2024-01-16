@@ -1,5 +1,5 @@
 <div style="background-color: #80dfff; color: black; padding: 10px; border-radius: 5px;">
-    Qhack is back with new challenges and prizes! <a href="http://ejemplo.com" style="color: blue;">Sign up</a> for the event and get ready for the adventure! (2024)
+    Qhack is back with new challenges and prizes! <a href="https://qhack.ai" style="color: blue;">Sign up</a> for the event and get ready for the adventure! (2024)
 </div>
 
 <p align="center">
